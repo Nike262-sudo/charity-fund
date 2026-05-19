@@ -1,7 +1,6 @@
 'use client';
 
 import Image from 'next/image';
-import { motion } from 'framer-motion';
 import { FadeIn } from './FadeIn';
 
 export function LivesTouched() {
@@ -41,18 +40,9 @@ export function LivesTouched() {
             <p className="text-stone-600 text-[15px] md:text-[17px] leading-relaxed mb-5">
               Helen Omobola Alabi, who scored 328 in the 2023 Unified Tertiary Matriculation Examination and emerged among the top-performing students in Ogbomoso, received sponsorship for coding training at SQI Institute through Rev Peter Olaleye Charity Foundation.
             </p>
-            <p className="text-stone-600 text-[15px] md:text-[17px] leading-relaxed mb-8">
+            <p className="text-stone-600 text-[15px] md:text-[17px] leading-relaxed">
               The initiative recognized academic excellence while equipping Helen with valuable digital skills to support future opportunities and growth.
             </p>
-
-            <motion.a
-              whileHover={{ scale: 1.03 }}
-              whileTap={{ scale: 0.98 }}
-              href="#"
-              className="inline-flex items-center justify-center px-7 py-3 border-2 border-[#1a4731] text-[#1a4731] font-bold rounded-full text-sm transition-all"
-            >
-              Read More
-            </motion.a>
           </div>
         </FadeIn>
       </div>
