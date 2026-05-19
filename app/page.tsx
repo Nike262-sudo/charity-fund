@@ -7,6 +7,7 @@ import { About } from './components/About';
 import { FocusAreas } from './components/FocusAreas';
 import { Involved } from './components/Involved';
 import { Impact } from './components/Impact';
+import { LivesTouched } from './components/LivesTouched';
 import { Stories } from './components/Stories';
 import { Projects } from './components/Projects';
 import { Donation } from './components/Donation';
@@ -19,6 +20,7 @@ export default function Home() {
       <About />
       <FocusAreas />
       <Impact />
+      <LivesTouched />
       <Stories />
       <Projects />
       <Donation />
