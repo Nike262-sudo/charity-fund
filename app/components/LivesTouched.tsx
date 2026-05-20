@@ -14,7 +14,7 @@ export function LivesTouched() {
               src="https://res.cloudinary.com/dkuda0je5/image/upload/q_auto/f_auto/v1779294340/WhatsApp_Image_2026-05-19_at_4.08.36_PM_ama28f.jpg"
               alt="Helen Omobola Alabi"
               fill
-              className="object-cover"
+              className="object-cover object-top"
               sizes="(max-width: 1024px) 100vw, 50vw"
             />
           </div>
