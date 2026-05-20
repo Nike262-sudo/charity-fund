@@ -11,7 +11,7 @@ export function LivesTouched() {
         <FadeIn direction="right">
           <div className="relative h-80 sm:h-96 w-full overflow-hidden rounded-2xl border border-stone-200 bg-stone-50">
             <Image
-              src="https://res.cloudinary.com/dkuda0je5/image/upload/q_auto/f_auto/v1779293877/WhatsApp_Image_2026-05-19_at_4.08.36_PM_zyadse.jpg"
+              src="https://res.cloudinary.com/dkuda0je5/image/upload/q_auto/f_auto/v1779294340/WhatsApp_Image_2026-05-19_at_4.08.36_PM_ama28f.jpg"
               alt="Helen Omobola Alabi"
               fill
               className="object-cover"
